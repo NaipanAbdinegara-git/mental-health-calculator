@@ -1,0 +1,5 @@
+15-05-2026 || 20:27:23 || Skor Stres: 16 || Skor Anxiety: 13 || Skor Depresi: 15
+15-05-2026 || 20:30:23 || Stress Score: 7 || Anxiety Score: 7 || Depression Score: 7
+15-05-2026 || 20:38:57 || Stress Score: 6 || Anxiety Score: 7 || Depression Score: 7 
+15-05-2026 || 20:39:34 || Stress Score: 7 || Anxiety Score: 7 || Depression Score: 7 
+15-05-2026 || 20:46:06 || Stress Score: 0 || Anxiety Score: 0 || Depression Score: 0 
