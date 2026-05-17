@@ -73,7 +73,6 @@ def en_resilience_interpretation():
         '''
 
 def en_status_analysis():
-    # Menghitung skor final (skor mentah * 2)
     s = scores['stress'] * 2
     a = scores['anxiety'] * 2
     d = scores['depression'] * 2
@@ -85,7 +84,7 @@ def en_status_analysis():
     print(f"Anxiety Score: {a}")
     print(f"Depression Score: {d}")
     print("-" * 20)
-    print(en_resilience_interpretation()) # Langsung panggil interpretasi
+    print(en_resilience_interpretation())
 
 def en_chk_reality():
     print("\n" + "=" * 20)
@@ -97,7 +96,7 @@ def en_chk_reality():
     print("Go outside, take a walk, feel the breeze, listen to the birds. Nature has a way of healing us that no screen can replicate.")
     print("You're doing great by taking this step to understand your mental health better. Keep it up!")
 
-# --- VERSI BAHASA INDONESIA ---
+# --- ID Version ---
 
 def id_question():
     print("=" * 20)
