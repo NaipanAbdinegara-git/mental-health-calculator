@@ -96,8 +96,6 @@ def en_chk_reality():
     print("Go outside, take a walk, feel the breeze, listen to the birds. Nature has a way of healing us that no screen can replicate.")
     print("You're doing great by taking this step to understand your mental health better. Keep it up!")
 
-# --- ID Version ---
-
 def id_question():
     print("=" * 20)
     print("Pertanyaan Kesehatan Mental:")
